@@ -1,6 +1,6 @@
 arr = [40, 4, 20, 10, 30, 6, 10]
 
-# insertion sort (from faster-sorting) with logging (from sorting):
+# insertion sort with logging:
 for i in range(1, len(arr)):
     a_i = arr[i]
     j = i - 1
